@@ -6,3 +6,12 @@ vscode:
   extensions:
     - julialang.language-julia
     - ms-azuretools.vscode-docker
+github:
+  prebuilds:
+    master: true
+    branches: true
+    pullRequests: true
+    pullRequestsFromForks: true
+    addCheck: false
+    addComment: false
+    addBadge: true
