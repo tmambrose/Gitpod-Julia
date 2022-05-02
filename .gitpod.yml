@@ -6,6 +6,7 @@ vscode:
   extensions:
     - julialang.language-julia
     - ms-azuretools.vscode-docker
+    - ms-vscode.live-server
 github:
   prebuilds:
     master: true
